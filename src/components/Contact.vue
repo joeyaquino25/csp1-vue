@@ -117,6 +117,7 @@
 
 	// Callback called by reCAPTCHA when successful
 	function onRecaptchaSuccess(token) {
+		console.log(token)
 	  recaptchaToken.value = token;
 	}
 
@@ -171,6 +172,7 @@
 
 
 </script>
+
 
 
 
