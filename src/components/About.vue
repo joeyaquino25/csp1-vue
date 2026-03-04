@@ -12,7 +12,7 @@
 	            <p class="text-justify landing-text">
 	                Charles Babbage KH FRS (/ˈbæbɪdʒ/; 26 December 1791 – 18 October 1871) was an English polymath. A mathematician, philosopher, inventor and mechanical engineer, Babbage originated the concept of a digital programmable computer.
 
-	                Babbage is considered by some to be "father of the computer".
+	                Babbage is considered by some to be "father of the computer". In the starbucks.
 	            </p>
 	        </div>
 	    </div>
