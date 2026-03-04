@@ -33,7 +33,7 @@
 
 <script setup>
 
-	import {ref, onMounted, onBeforeUnMount} from "vue";
+	import {ref, onMounted, onBeforeUnmount} from "vue";
 
 	import {Notyf} from "notyf";
 	import "notyf/notyf.min.css";
@@ -100,7 +100,7 @@
 	
 
 
-	const SITE_KEY = '';  
+	const SITE_KEY = '6Lf_-H4sAAAAAFkEidWrmQkokO5LWHqwaSlzf5Y4';  
 
 	const recaptchaContainer = ref(null);
 	const recaptchaWidgetId = ref(null);
