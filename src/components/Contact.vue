@@ -70,7 +70,7 @@
 				},
 				body: JSON.stringify({
 					access_key: WEB3FORMS_ACCESS_KEY,
-					subject: subject.value,
+					subject: subject,
 					name: name.value,
 					email: email.value,
 					message: message.value
@@ -163,3 +163,4 @@
 
 
 </script>
+
